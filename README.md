@@ -1,2 +1,2 @@
 # beginnerlessons
-Tutuorials
+Tutorials
